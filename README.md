@@ -60,10 +60,16 @@ By moving from manual tracking to this automated dashboard, the business achieve
 
 ## 📁 Repository Structure
 
+This repository is organized as follows:
+
 *   **`README.md`**: The main overview of the project, including the problem, solution, and business impact.
 *   **`images/`**: Contains screenshots of the Power BI dashboard pages and the workflow diagram for quick visual reference.
 *   **`docs/`**: Contains the detailed PDF documents.
     *   `business-analysis-report.pdf`: The comprehensive written report of the project.
     *   `workflow-diagram.pdf`: The process map created in Lucidchart.
-*   **`dashboard/`**: Contains the Power BI source file (`dyson-enterprise-dashboard.pbix`) so you can explore the data model and DAX measures.
+*   **`dashboard/`**: Contains the Power BI source file (`dyson-enterprise-dashboard.pbix`) so you can explore the data model, relationships, and DAX measures.
+*   **`data/`**: Contains the dataset used to build the dashboard.
+
+## 🔒 Data Privacy Note
+*The data used in this project has been sanitized/anonymized to protect client confidentiality (e.g., replacing real client names with generic placeholders). The structure and relationships of the data remain identical to the real-world scenario to demonstrate analytical capabilities.*
 
