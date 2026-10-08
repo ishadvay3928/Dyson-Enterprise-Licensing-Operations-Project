@@ -59,6 +59,11 @@ By moving from manual tracking to this automated dashboard, the business achieve
 *   **Lucidchart:** Process mapping and workflow optimization.
 
 ## 📁 Repository Structure
-*   `business-analysis-report.pdf`: Detailed written report of the project.
-*   `dashboard.pbix`: The Power BI source file.
-*   `workflow-diagram.pdf`: The process map created in Lucidchart.
+
+*   **`README.md`**: The main overview of the project, including the problem, solution, and business impact.
+*   **`images/`**: Contains screenshots of the Power BI dashboard pages and the workflow diagram for quick visual reference.
+*   **`docs/`**: Contains the detailed PDF documents.
+    *   `business-analysis-report.pdf`: The comprehensive written report of the project.
+    *   `workflow-diagram.pdf`: The process map created in Lucidchart.
+*   **`dashboard/`**: Contains the Power BI source file (`dyson-enterprise-dashboard.pbix`) so you can explore the data model and DAX measures.
+
